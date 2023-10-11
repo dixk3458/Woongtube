@@ -28,8 +28,8 @@ const router = createBrowserRouter([
         path: '/game',
         element: <VideoHome />,
       },
-      { path: '/videos', element: <Videos /> },
-      { path: '/videos/:videoId', element: <VideoDetail /> },
+      { path: '/videos/:keyword', element: <Videos /> },
+      { path: '/videos/:keyword/:videoId', element: <VideoDetail /> },
     ],
   },
 ]);
