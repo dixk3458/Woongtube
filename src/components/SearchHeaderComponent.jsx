@@ -1,6 +1,6 @@
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import { BsSearch } from 'react-icons/bs';
-import { Link, useNavigate } from 'react-router-dom';
+import { Link, useNavigate, useParams } from 'react-router-dom';
 
 export default function SearchHeaderComponent() {
   const [text, setText] = useState('');
@@ -10,10 +10,15 @@ export default function SearchHeaderComponent() {
 
   const navigate = useNavigate();
 
+  const { keyword } = useParams();
+
+  useEffect(() => {
+    setText(keyword || '');
+  }, [keyword]);
+
   const handleSubmit = e => {
     e.preventDefault();
-    navigate(`/videos/${text}`);
-    setText('');
+    text ? navigate(`/videos/${text}`) : navigate('/');
   };
   return (
     <header className="w-full flex items-center p-4 text-2xl border-b border-lightGrayBorder mb-4 dark:bg-darkDeep">
@@ -29,7 +34,7 @@ export default function SearchHeaderComponent() {
         onSubmit={handleSubmit}
       >
         <input
-          className="w-7/12 p-2 outline-none bg-lightGrayBorder rounded-l-2xl text-lg"
+          className="w-7/12 p-2 outline-none bg-lightGrayBorder rounded-l-2xl text-lg   focus:scale-105 focus:border focus:border-blue-200"
           type="text"
           value={text}
           onChange={handleChange}

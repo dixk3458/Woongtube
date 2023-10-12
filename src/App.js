@@ -17,15 +17,15 @@ const router = createBrowserRouter([
         element: <VideoHome />,
       },
       {
-        path: '/music',
+        path: '/channel/:category',
         element: <VideoHome />,
       },
       {
-        path: '/sports',
+        path: '/channel/:category',
         element: <VideoHome />,
       },
       {
-        path: '/game',
+        path: '/channel/:category',
         element: <VideoHome />,
       },
       { path: '/videos/:keyword', element: <Videos /> },

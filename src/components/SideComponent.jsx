@@ -1,5 +1,5 @@
-import React, { useState } from 'react';
-import { Link } from 'react-router-dom';
+import React, { useEffect, useState } from 'react';
+import { Link, useParams } from 'react-router-dom';
 import { PiMusicNote } from 'react-icons/pi';
 import { GoTrophy } from 'react-icons/go';
 import { LuGamepad2 } from 'react-icons/lu';
@@ -10,6 +10,12 @@ const categories = ['music', 'sports', 'game'];
 const icons = [<PiMusicNote />, <GoTrophy />, <LuGamepad2 />];
 
 export default function SideComponent() {
+  const { category } = useParams();
+
+  useEffect(() => {
+    setFilter(category || '');
+  }, [category]);
+
   const [filter, setFilter] = useState(undefined);
 
   const { darkMode, toggleDarkMode } = useDarkMode();
@@ -25,13 +31,10 @@ export default function SideComponent() {
                   onClick={() => {
                     setFilter(category);
                   }}
-                  // className={` text-lightBasicText dark:text-darkBasicText   ${
-                  //   filter === category && 'text-primary'
-                  // }`}
                   className={`flex items-center my-2 p-2 gap-2 text-2xl dark:text-darkBasicText ${
                     filter === category && 'text-primary dark:text-primary'
                   }`}
-                  to={`/${category}`}
+                  to={`/channel/${category}`}
                 >
                   {icons[index]}
                   <h3 className="leading-10">{category}</h3>
