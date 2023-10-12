@@ -16,13 +16,13 @@ export default function SearchHeaderComponent() {
     setText('');
   };
   return (
-    <header className="w-full flex items-center p-4 text-2xl border-b border-zinc-600 mb-4">
+    <header className="w-full flex items-center p-4 text-2xl border-b border-gray-300 mb-4">
       <Link className="flex items-center" to="/">
         <img src="logo.png" alt="logo" />
         <h1 className="font-bold text-3xl">WoongTube</h1>
       </Link>
       <form
-        className="w-full flex justify-center"
+        className="flex flex-1 justify-center"
         action=""
         onSubmit={handleSubmit}
       >

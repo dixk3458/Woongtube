@@ -5,10 +5,12 @@ import SearchHeaderComponent from '../components/SearchHeaderComponent';
 
 export default function Root() {
   return (
-    <div>
+    <div className="flex flex-col h-full ">
       <SearchHeaderComponent />
-      <SideComponent />
-      <Outlet />
+      <div className="flex flex-1">
+        <SideComponent />
+        <Outlet />
+      </div>
     </div>
   );
 }
