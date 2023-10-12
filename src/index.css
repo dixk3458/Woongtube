@@ -23,3 +23,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+html {
+  @apply bg-light;
+}
+
+html.dark {
+  @apply bg-darkLight;
+}

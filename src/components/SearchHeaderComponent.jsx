@@ -16,10 +16,12 @@ export default function SearchHeaderComponent() {
     setText('');
   };
   return (
-    <header className="w-full flex items-center p-4 text-2xl border-b border-gray-300 mb-4">
+    <header className="w-full flex items-center p-4 text-2xl border-b border-lightGrayBorder mb-4 dark:bg-darkDeep">
       <Link className="flex items-center" to="/">
         <img src="logo.png" alt="logo" />
-        <h1 className="font-bold text-3xl">WoongTube</h1>
+        <h1 className="font-bold text-3xl dark:text-darkBasicText">
+          WoongTube
+        </h1>
       </Link>
       <form
         className="flex flex-1 justify-center"
@@ -27,13 +29,13 @@ export default function SearchHeaderComponent() {
         onSubmit={handleSubmit}
       >
         <input
-          className="w-7/12 p-2 outline-none bg-gray-200 rounded-l-2xl text-lg"
+          className="w-7/12 p-2 outline-none bg-lightGrayBorder rounded-l-2xl text-lg"
           type="text"
           value={text}
           onChange={handleChange}
           placeholder="검색"
         />
-        <button className="before:content-[''] before:w-0.5  before:h-4 before:bg-gray-400 flex items-center gap-2 bg-gray-200 px-4 rounded-r-2xl">
+        <button className="before:content-[''] before:w-0.5  before:h-4 before:bg-lightDeepText flex items-center gap-2 bg-lightGrayBorder px-4 rounded-r-2xl">
           <BsSearch />
         </button>
       </form>
