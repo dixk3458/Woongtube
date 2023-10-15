@@ -20,14 +20,6 @@ const router = createBrowserRouter([
         path: '/channel/:category',
         element: <VideoHome />,
       },
-      {
-        path: '/channel/:category',
-        element: <VideoHome />,
-      },
-      {
-        path: '/channel/:category',
-        element: <VideoHome />,
-      },
       { path: '/videos/:keyword', element: <Videos /> },
       { path: '/videos/:keyword/:videoId', element: <VideoDetail /> },
     ],
