@@ -1,0 +1,1487 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "zuH9OgoofGxqrt4fboTZJpJKr1I",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "kgOgbVAHQslXxI-vS2yQZRWfblg",
+      "id": "QJjRncmiP5k",
+      "snippet": {
+        "publishedAt": "2023-10-14T08:45:07Z",
+        "channelId": "UC2X_pEXXcvVZY5XlyeLR4_w",
+        "title": "분홍",
+        "description": "#shorts \n\n마인크래프트",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QJjRncmiP5k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QJjRncmiP5k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QJjRncmiP5k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QJjRncmiP5k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QJjRncmiP5k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이비온",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "분홍",
+          "description": "#shorts \n\n마인크래프트"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "uLvtPX7095gwEiPoTFUO-ya5-IE",
+      "id": "2o0jN0TowHM",
+      "snippet": {
+        "publishedAt": "2023-10-15T03:00:01Z",
+        "channelId": "UCQyxwKimAFoloIEzaqVP16w",
+        "title": "정신 나간 철골렘#shorts",
+        "description": "#마인크래프트 #마크 \n🔔절 찾아보게 되신다면 구독을 눌러주세요🔔\n모드 정보\nhttps://mcpedl.com/rexys-expansion-addon/\n📷'공갈갈' 멤버십(브이로그) 가입하기 링크\n👉 https://www.youtube.com/channel/UCQyxwKimAFoloIEzaqVP16w/join\n\n각종 문의 (최대한 빠르게 답변해 드립니다)\n💚E-mail : konggaltv@naver.com\n💜Instagram : https://goo.gl/svvz93\n\n🎵BGM\nMusic provided by 브금대통령\n인생 뭐 있냐: https://www.youtube.com/watch?v=EJR1MutUW9o",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2o0jN0TowHM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2o0jN0TowHM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2o0jN0TowHM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2o0jN0TowHM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2o0jN0TowHM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "공갈",
+        "tags": [
+          "인기",
+          "추천",
+          "쇼츠",
+          "숏츠",
+          "알고리즘",
+          "모드",
+          "공갈",
+          "mod",
+          "short"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "정신 나간 철골렘#shorts",
+          "description": "#마인크래프트 #마크 \n🔔절 찾아보게 되신다면 구독을 눌러주세요🔔\n모드 정보\nhttps://mcpedl.com/rexys-expansion-addon/\n📷'공갈갈' 멤버십(브이로그) 가입하기 링크\n👉 https://www.youtube.com/channel/UCQyxwKimAFoloIEzaqVP16w/join\n\n각종 문의 (최대한 빠르게 답변해 드립니다)\n💚E-mail : konggaltv@naver.com\n💜Instagram : https://goo.gl/svvz93\n\n🎵BGM\nMusic provided by 브금대통령\n인생 뭐 있냐: https://www.youtube.com/watch?v=EJR1MutUW9o"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ZGF2a3BEC1xTV249NJlJ4HpO45k",
+      "id": "hCApn91TFd4",
+      "snippet": {
+        "publishedAt": "2023-10-14T01:00:18Z",
+        "channelId": "UCCdcpCa4yiDcCPhFErd7TXA",
+        "title": "구라치지마!",
+        "description": "#마인크래프트 #챌린지 #모드 \n여러분 안녕하세요 댕댕이입니다! ╰(*°▽°*)╯\n영상이 재미있으셨다면 좋아요와 구독! 부탁드리겠습니다😁😁😁\n\n각종 게임 플레이 및 마인크래프트 모드 리뷰 채널입니다!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hCApn91TFd4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hCApn91TFd4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hCApn91TFd4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hCApn91TFd4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hCApn91TFd4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "댕댕이유튜브",
+        "tags": [
+          "댕댕이마크",
+          "댕댕이유튜브",
+          "마인크래프트",
+          "모드",
+          "마크모드",
+          "할로윈",
+          "무서운모드",
+          "공포모드"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "구라치지마!",
+          "description": "#마인크래프트 #챌린지 #모드 \n여러분 안녕하세요 댕댕이입니다! ╰(*°▽°*)╯\n영상이 재미있으셨다면 좋아요와 구독! 부탁드리겠습니다😁😁😁\n\n각종 게임 플레이 및 마인크래프트 모드 리뷰 채널입니다!"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "8Q3qD2udGVMA45ar0KvGnZ5KJo0",
+      "id": "ymHDqrn-9Sk",
+      "snippet": {
+        "publishedAt": "2023-10-15T01:15:04Z",
+        "channelId": "UC4bbeipO3PFwAH4Osu2Rfuw",
+        "title": "제 속도 보여드리겠습니다 타임어택 #무한의계단 #모바일게임",
+        "description": "#shorts #아이고",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ymHDqrn-9Sk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ymHDqrn-9Sk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ymHDqrn-9Sk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ymHDqrn-9Sk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ymHDqrn-9Sk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "아이고",
+        "tags": [
+          "무한의계단",
+          "무한의 계단",
+          "무계",
+          "무한의 계단 타임어택",
+          "모바일게임",
+          "게임",
+          "타임어택",
+          "무계 타임어택",
+          "무계 속도",
+          "무한의계단 속도",
+          "무한의 계단 속도",
+          "무한의계단 타임어택"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "제 속도 보여드리겠습니다 타임어택 #무한의계단 #모바일게임",
+          "description": "#shorts #아이고"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Vj8jwXmo1WpI0GlxvK-OnvW9krE",
+      "id": "AoUYUHA19NQ",
+      "snippet": {
+        "publishedAt": "2023-10-15T01:54:16Z",
+        "channelId": "UCui2s0e4ApmeOnhR2qCZz5g",
+        "title": "좋아요 1개당 1원 '현질' 하겠습니다ㅋㅋㅋㅋ #무한의계단",
+        "description": "#무한의계단 #모바일게임 #shorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AoUYUHA19NQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AoUYUHA19NQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AoUYUHA19NQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AoUYUHA19NQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AoUYUHA19NQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "전설",
+        "tags": ["무한의계단"],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "좋아요 1개당 1원 '현질' 하겠습니다ㅋㅋㅋㅋ #무한의계단",
+          "description": "#무한의계단 #모바일게임 #shorts"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "1Kmhzj7kxR_R0LQ8xw12GyAUOAY",
+      "id": "z3lkRcZulDc",
+      "snippet": {
+        "publishedAt": "2023-10-13T07:02:25Z",
+        "channelId": "UC7nVGqibbYgrzh733LDffNQ",
+        "title": "100만 되는 순간",
+        "description": "탁주의숲❤️ https://youtube.com/playlist?list=PLK-Zqe2cix7Qw21ZGTGqaU4fKSPNip-Rd\n로블록스❤️ https://youtube.com/playlist?list=PLK-Zqe2cix7TD61gT2l6_iGCZ9ZlqEDVS\n마인크래프트❤️ https://youtube.com/playlist?list=PLK-Zqe2cix7RhBr-BOx8j5mtwFoSOCHDT\n한글 배우기❤️ https://youtube.com/playlist?list=PLK-Zqe2cix7R668XoLcMEtZEYcr33aQ1D\n극장판❤️ https://youtube.com/playlist?list=PLK-Zqe2cix7S9vGxlKG8D2NMs7g506oHS\n\nSubscribe and join Takju: https://www.youtube.com/@Takju0417?sub_confirmation=1\n------------------------------------------",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/z3lkRcZulDc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/z3lkRcZulDc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/z3lkRcZulDc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/z3lkRcZulDc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/z3lkRcZulDc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "탁주 쪼꼬",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "100만 되는 순간",
+          "description": "탁주의숲❤️ https://youtube.com/playlist?list=PLK-Zqe2cix7Qw21ZGTGqaU4fKSPNip-Rd\n로블록스❤️ https://youtube.com/playlist?list=PLK-Zqe2cix7TD61gT2l6_iGCZ9ZlqEDVS\n마인크래프트❤️ https://youtube.com/playlist?list=PLK-Zqe2cix7RhBr-BOx8j5mtwFoSOCHDT\n한글 배우기❤️ https://youtube.com/playlist?list=PLK-Zqe2cix7R668XoLcMEtZEYcr33aQ1D\n극장판❤️ https://youtube.com/playlist?list=PLK-Zqe2cix7S9vGxlKG8D2NMs7g506oHS\n\nSubscribe and join Takju: https://www.youtube.com/@Takju0417?sub_confirmation=1\n------------------------------------------"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "GKBaIqDlwup3IicEDU9AiAGXmT4",
+      "id": "NsWp2buAO3E",
+      "snippet": {
+        "publishedAt": "2023-10-14T02:00:09Z",
+        "channelId": "UCKC4R6B8bTLIKH1V9PyD7Iw",
+        "title": "살려달라는 괴생명체의 충격적인 정체 #shorts",
+        "description": "#마인크래프트 #마크 #모드 \n\n\n모드 출처 : https://www.curseforge.com/minecraft/mc-mods/scary-mobs-and-bosses\n\n\n◆ 비즈니스 문의 : ad@lolq.co.kr\n◆ 개인 문의 : kbd2018@naver.com\n◆ 트위치 생방송 : https://www.twitch.tv/kimbangduck\n◆ 인스타 : gyeonmoung\n◆ 팬카페 : https://cafe.naver.com/gyeonnim",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NsWp2buAO3E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NsWp2buAO3E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NsWp2buAO3E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NsWp2buAO3E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NsWp2buAO3E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "견뭉",
+        "tags": [
+          "마크 모드",
+          "마인크래프트 모드",
+          "마인크레프트",
+          "마크 끔찍한 몹",
+          "마크 끔찍한 몬스터",
+          "마크 공포",
+          "마크 버려진 마을",
+          "마크 괴생명체",
+          "마크 괴물"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "살려달라는 괴생명체의 충격적인 정체 #shorts",
+          "description": "#마인크래프트 #마크 #모드 \n\n\n모드 출처 : https://www.curseforge.com/minecraft/mc-mods/scary-mobs-and-bosses\n\n\n◆ 비즈니스 문의 : ad@lolq.co.kr\n◆ 개인 문의 : kbd2018@naver.com\n◆ 트위치 생방송 : https://www.twitch.tv/kimbangduck\n◆ 인스타 : gyeonmoung\n◆ 팬카페 : https://cafe.naver.com/gyeonnim"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "uopaYOztBCk73QFAzazAhTXJjMg",
+      "id": "eyxb_Eu1zCk",
+      "snippet": {
+        "publishedAt": "2023-10-14T07:52:21Z",
+        "channelId": "UCugNO83_V7xZLzCsjpABGeg",
+        "title": "백문철 최초 백크 찐텐 극대노하게 만든 다이아 롤악귀 【백문철 TV】",
+        "description": "재밌게 시청해주세요!\n모든 문의사항은 bkh173999@gmail.com\n\noutro: ryyzn - not important",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eyxb_Eu1zCk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eyxb_Eu1zCk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eyxb_Eu1zCk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eyxb_Eu1zCk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eyxb_Eu1zCk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "백크 Baekk",
+        "tags": [
+          "백크",
+          "감스트",
+          "괴물쥐",
+          "페이커",
+          "리그오브레전드",
+          "챌린저",
+          "그랜드마스터",
+          "마스터",
+          "해도리",
+          "랄로",
+          "파카",
+          "t1",
+          "이상호",
+          "김민교"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "백문철 최초 백크 찐텐 극대노하게 만든 다이아 롤악귀 【백문철 TV】",
+          "description": "재밌게 시청해주세요!\n모든 문의사항은 bkh173999@gmail.com\n\noutro: ryyzn - not important"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ixGSLOTjCb9-NWyYIiqskZ-GxkU",
+      "id": "QBb5nrAH_lY",
+      "snippet": {
+        "publishedAt": "2023-10-14T03:50:30Z",
+        "channelId": "UCQreDC73rqiw1wSc_ZYwgHA",
+        "title": "주민의 꿈",
+        "description": "아..이게 꿈?\n\n#shorts #마인크래프트 #minecraft",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QBb5nrAH_lY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QBb5nrAH_lY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QBb5nrAH_lY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QBb5nrAH_lY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QBb5nrAH_lY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "블루위키",
+        "tags": [
+          "마인크래프트",
+          "#shorts",
+          "shorts",
+          "결과",
+          "신기",
+          "minecraft",
+          "버그",
+          "오류",
+          "괴담",
+          "신기한",
+          "마크",
+          "bug",
+          "실험",
+          "주민",
+          "villager",
+          "우민",
+          "zombie",
+          "거북",
+          "닭",
+          "치킨",
+          "chicken",
+          "turtle",
+          "거북이",
+          "좀비",
+          "진실",
+          "구독",
+          "기적",
+          "봇",
+          "100만",
+          "똑똑한",
+          "멍청한",
+          "멍청",
+          "TNT",
+          "꿈",
+          "블루위키"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "주민의 꿈",
+          "description": "아..이게 꿈?\n\n#shorts #마인크래프트 #minecraft"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "kwcRCAxb4zYXL-tJ5btZYzWw7WM",
+      "id": "edbk2uWIS0M",
+      "snippet": {
+        "publishedAt": "2023-10-15T05:00:15Z",
+        "channelId": "UCwqLV5Xndjm4Wztk-c7IMjQ",
+        "title": "브로콜리 좋아!🥦 VS 싫어!🥦 사촌동생들의 선택은?! 로블록스 #shorts",
+        "description": "#shorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/edbk2uWIS0M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/edbk2uWIS0M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/edbk2uWIS0M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/edbk2uWIS0M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/edbk2uWIS0M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ROBLOX 해달선",
+        "tags": ["로블록스"],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "브로콜리 좋아!🥦 VS 싫어!🥦 사촌동생들의 선택은?! 로블록스 #shorts",
+          "description": "#shorts"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "eT1MMhZnolA5aJ_HJk37-QoQbA4",
+      "id": "RUcpc7BCB9Y",
+      "snippet": {
+        "publishedAt": "2023-10-15T02:30:01Z",
+        "channelId": "UC4P7F8qenDo1O_5NvgBb_cg",
+        "title": "상대 : 이번엔 진짜 이겼다 ... 게임 끝났으니 나가라고 홍구야 ㅋㅋㅋㅋ",
+        "description": "스타크래프트 저그 전프로 홍구의 공식 스타채널입니다^^\n#홍구 #공방 #참교육 #운영좌 #리벤지 #스타 #엽기전략\n\n✌구독과 좋아요는 저희에게 큰 힘이 됩니다!\n구독 :: https://www.youtube.com/channel/UC4P7...\n\n💌각종 문의는? dpfgc3@nate.com\n💐아프리카 방송국 :: http://afreecatv.com/dpfgc3\n\n✨시청해주셔서 감사합니다!\n\n=============================================================",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RUcpc7BCB9Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RUcpc7BCB9Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RUcpc7BCB9Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RUcpc7BCB9Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RUcpc7BCB9Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "발스타홍구",
+        "tags": [
+          "홍구",
+          "공방",
+          "참교육",
+          "운영좌",
+          "리벤지",
+          "복수전",
+          "스타크래프트",
+          "프로게이머",
+          "우승",
+          "우승자",
+          "도파",
+          "알파고",
+          "김성현",
+          "흑운장",
+          "엽기전략",
+          "스타",
+          "사기맵",
+          "타골좌",
+          "타임이즈골드",
+          "양민좌",
+          "당근좌",
+          "기프티콘",
+          "빙그레",
+          "스타홍구",
+          "홍구스타",
+          "비매너",
+          "노매너",
+          "악성유저",
+          "악질유저",
+          "극찬",
+          "빌런",
+          "발스타",
+          "상대",
+          "스타리그",
+          "빌런스타리그",
+          "발스타홍구"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "상대 : 이번엔 진짜 이겼다 ... 게임 끝났으니 나가라고 홍구야 ㅋㅋㅋㅋ",
+          "description": "스타크래프트 저그 전프로 홍구의 공식 스타채널입니다^^\n#홍구 #공방 #참교육 #운영좌 #리벤지 #스타 #엽기전략\n\n✌구독과 좋아요는 저희에게 큰 힘이 됩니다!\n구독 :: https://www.youtube.com/channel/UC4P7...\n\n💌각종 문의는? dpfgc3@nate.com\n💐아프리카 방송국 :: http://afreecatv.com/dpfgc3\n\n✨시청해주셔서 감사합니다!\n\n============================================================="
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "6ANKkAi6Gy-gtVSccqk0daTmFm4",
+      "id": "1KhO2xSOZR8",
+      "snippet": {
+        "publishedAt": "2023-10-14T07:30:00Z",
+        "channelId": "UC8CIM3d3zDYMk-3T5aAz0yw",
+        "title": "파티애니멀즈 혜안져스끼리 해봤는뎈ㅋㅋㅋㅋㅋㅋ🤣🔥",
+        "description": "혜안져스 패싸움\n[업로드] 금,토,일,월\n[문의메일] zxcv34276@gmail.com\n[인스타그램] @hxxax_\n#혜안 #파티애니멀즈 #혜안져스\nMusic by 달콤사운즈\n‘Pop Pop’ - https://youtu.be/nLMmhfe29bE?si=0qgNiqlVhQFbeN0i\n‘Banana Cat’ - https://youtu.be/bhZ0Ecy5Bw8?si=8CeRybcZrl9g0WXY\n‘Bread Lover’ - https://youtu.be/rF00ZO28Mig\n‘Melon Bingsu’ - https://youtu.be/KXZj0OtlpFI?si=00w_AwFFQFEEv0pb\nMusic provided by 브금대통령\nTrack : 아뿔싸 – https://youtu.be/adythmpI-Vg\nTrack : 수사 반장 - https://youtu.be/wkXKGV9qJ6Y\nTrack : 병아리는 삐약삐약 - https://youtu.be/ZNajc-kQ8zE\nTrack : 맛있는 상상 - https://youtu.be/6FD08T-KVRc\nTrack : Retro Land - https://youtu.be/4KDrMs-NRwQ\nTrack : Piece of Cake - https://youtu.be/P0SfHRQY1A4\nTrack : 비 내리는 포장마차 - https://youtu.be/NKaNFZM1ing",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1KhO2xSOZR8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1KhO2xSOZR8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1KhO2xSOZR8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1KhO2xSOZR8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1KhO2xSOZR8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "혜안",
+        "tags": ["혜안"],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "파티애니멀즈 혜안져스끼리 해봤는뎈ㅋㅋㅋㅋㅋㅋ🤣🔥",
+          "description": "혜안져스 패싸움\n[업로드] 금,토,일,월\n[문의메일] zxcv34276@gmail.com\n[인스타그램] @hxxax_\n#혜안 #파티애니멀즈 #혜안져스\nMusic by 달콤사운즈\n‘Pop Pop’ - https://youtu.be/nLMmhfe29bE?si=0qgNiqlVhQFbeN0i\n‘Banana Cat’ - https://youtu.be/bhZ0Ecy5Bw8?si=8CeRybcZrl9g0WXY\n‘Bread Lover’ - https://youtu.be/rF00ZO28Mig\n‘Melon Bingsu’ - https://youtu.be/KXZj0OtlpFI?si=00w_AwFFQFEEv0pb\nMusic provided by 브금대통령\nTrack : 아뿔싸 – https://youtu.be/adythmpI-Vg\nTrack : 수사 반장 - https://youtu.be/wkXKGV9qJ6Y\nTrack : 병아리는 삐약삐약 - https://youtu.be/ZNajc-kQ8zE\nTrack : 맛있는 상상 - https://youtu.be/6FD08T-KVRc\nTrack : Retro Land - https://youtu.be/4KDrMs-NRwQ\nTrack : Piece of Cake - https://youtu.be/P0SfHRQY1A4\nTrack : 비 내리는 포장마차 - https://youtu.be/NKaNFZM1ing"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "2sJtGvhSfr144SjA3LulXW__KgY",
+      "id": "ZbXu2_2N9vA",
+      "snippet": {
+        "publishedAt": "2023-10-14T22:00:25Z",
+        "channelId": "UCqpFn_r0p9-T5BU6OfxnyaQ",
+        "title": "클러치 상황에.. 이건 상상도 못했다ㅋㅋㅋㅋㅋ",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZbXu2_2N9vA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZbXu2_2N9vA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZbXu2_2N9vA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZbXu2_2N9vA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZbXu2_2N9vA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "루인",
+        "tags": ["발로란트", "루인", "정지", "중국서버", "중국"],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "클러치 상황에.. 이건 상상도 못했다ㅋㅋㅋㅋㅋ",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "6ZTleHIFMIe0_s0kwtoeW5ioB0g",
+      "id": "51ke5Erq-OY",
+      "snippet": {
+        "publishedAt": "2023-10-14T23:00:02Z",
+        "channelId": "UCNOYTSGiu9bV6VjqnJa4ojw",
+        "title": "💥잼못타⭐️ 급못타 둘다 깬 고수 찾습니다🔥 #로블록스 #추천 #로블계 #떡상 #잼못타 #급못타",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/51ke5Erq-OY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/51ke5Erq-OY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/51ke5Erq-OY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/51ke5Erq-OY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/51ke5Erq-OY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "멜로우TV",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "💥잼못타⭐️ 급못타 둘다 깬 고수 찾습니다🔥 #로블록스 #추천 #로블계 #떡상 #잼못타 #급못타",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "-fU6QnZIchgsJ97BFrwTJYmbYAo",
+      "id": "gd-NlhZVLN4",
+      "snippet": {
+        "publishedAt": "2023-10-15T03:15:02Z",
+        "channelId": "UCcCzOjiVOtjKqa83iLuOMdg",
+        "title": "활약했지만 롤드컵 스킨 받지 못한 비운의 챔피언들 #shorts",
+        "description": "#shorts #롤 #챔피언\n\n※롤과 관련된 궁금한 점이 있으시면 언제든 댓글로 남겨주세요※",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gd-NlhZVLN4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gd-NlhZVLN4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gd-NlhZVLN4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gd-NlhZVLN4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gd-NlhZVLN4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "롤 탐구생활(전지적 게임 시점)",
+        "tags": [
+          "롤",
+          "League of Legends",
+          "lol",
+          "리그오브레전드",
+          "라이엇",
+          "팀운",
+          "신챔",
+          "정글",
+          "픽률 낮은",
+          "픽률 낮은 챔피언",
+          "고인 챔피언",
+          "롤 신챔",
+          "롤드컵 스킨",
+          "롤드컵",
+          "롤드컵 스킨 받지 못한",
+          "크라운 말자하",
+          "롤 크라운",
+          "앰비션",
+          "도인비 노틸러스",
+          "도인비",
+          "베릴",
+          "베릴 애쉬",
+          "베릴 레오나",
+          "베릴 스킨",
+          "더 샤이"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "활약했지만 롤드컵 스킨 받지 못한 비운의 챔피언들 #shorts",
+          "description": "#shorts #롤 #챔피언\n\n※롤과 관련된 궁금한 점이 있으시면 언제든 댓글로 남겨주세요※"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Jr3ouOxRDpd3K4Fasg2LJIqt8z0",
+      "id": "f5nx6PdXshE",
+      "snippet": {
+        "publishedAt": "2023-10-14T01:02:05Z",
+        "channelId": "UC0dL5a0hU51bqQT4BCglHcQ",
+        "title": "이해하면 무서운 이야기117",
+        "description": "👑 ▼썰챗 SSC 멤버 가입▼ 👑\nhttps://www.youtube.com/@SSCHAT/join/\n\n🎵틱톡ID : @sseolchat\n✉ 광고&협찬문의 : sseolchat@gmail.com\n\n고퀄 영상툰 썰챗 🎥 구독+좋아요+알림설정🧡\n\n#shorts #이해하면무서운이야기   #이무이 #무서운이야기",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/f5nx6PdXshE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/f5nx6PdXshE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/f5nx6PdXshE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/f5nx6PdXshE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/f5nx6PdXshE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "썰챗 - 영상툰",
+        "tags": [
+          "shorts",
+          "이해하면무서운이야기",
+          "이해하면 무서운 이야기",
+          "이무이",
+          "무서운 이야기",
+          "이해하면무서운",
+          "공포",
+          "이해하면",
+          "무서운이야기",
+          "공포이야기",
+          "공포툰"
+        ],
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "이해하면 무서운 이야기117",
+          "description": "👑 ▼썰챗 SSC 멤버 가입▼ 👑\nhttps://www.youtube.com/@SSCHAT/join/\n\n🎵틱톡ID : @sseolchat\n✉ 광고&협찬문의 : sseolchat@gmail.com\n\n고퀄 영상툰 썰챗 🎥 구독+좋아요+알림설정🧡\n\n#shorts #이해하면무서운이야기   #이무이 #무서운이야기"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ACCzYwAQym_anwi2TaIQF-NWMRs",
+      "id": "138wZpBFTH8",
+      "snippet": {
+        "publishedAt": "2023-10-15T03:00:01Z",
+        "channelId": "UCzgwmlYhN_QSZiZ0pOH9pBw",
+        "title": "스키비디 토일렛 멀티버스 7화-2 '시간 치료' ✨",
+        "description": "#스키비디토일렛 #skibiditoilet #멀티버스 \n\n돔 스튜디오 @DOM_Studio 스키비디 토일렛 멀티버스 '클락우먼' 7화 한글 더빙 영상입니다.\n* 유료음원 : Artlist.io pro plan",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/138wZpBFTH8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/138wZpBFTH8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/138wZpBFTH8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/138wZpBFTH8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/138wZpBFTH8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "C툰",
+        "tags": [
+          "스키비디토일렛",
+          "스키비디 토일렛",
+          "토일렛",
+          "노래",
+          "게임",
+          "로블록스",
+          "카메라맨",
+          "애니메이션",
+          "게임툰즈",
+          "gametoons",
+          "마인크래프트",
+          "skibidi",
+          "skibidi toilet",
+          "타이탄",
+          "밈",
+          "TV맨",
+          "티비맨",
+          "TV우먼",
+          "TV 우먼",
+          "티비우먼",
+          "60화",
+          "61화",
+          "62화",
+          "63화",
+          "64화",
+          "타스맨",
+          "타카맨",
+          "65화",
+          "멀티버스",
+          "클락맨",
+          "타이탄 클락맨",
+          "multiverse",
+          "클락우먼",
+          "시계맨",
+          "시계우먼"
+        ],
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "스키비디 토일렛 멀티버스 7화-2 '시간 치료' ✨",
+          "description": "#스키비디토일렛 #skibiditoilet #멀티버스 \n\n돔 스튜디오 @DOM_Studio 스키비디 토일렛 멀티버스 '클락우먼' 7화 한글 더빙 영상입니다.\n* 유료음원 : Artlist.io pro plan"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "1w2wdxGwX2pcvQczP5jIZhTU_tI",
+      "id": "whX1NWmKAq0",
+      "snippet": {
+        "publishedAt": "2023-10-15T07:07:35Z",
+        "channelId": "UCFHUplScMiWTjJrtv4hxWmg",
+        "title": "정상전쟁 [ASL 시즌16 결승전 김민철vs변현제 1경기]",
+        "description": "#ASL#ASL16#ASL시즌16#결승#결승전\n\nStarCraft:Remastered 스타크래프트 전문채널 도재욱\n도멘 TV에 오신분들!\n구독/좋아요/댓글/공유 3개만요...\n\n도재욱 방송국? ▶ http://www.afreeca.com/wodnrdldia",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/whX1NWmKAq0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/whX1NWmKAq0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/whX1NWmKAq0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/whX1NWmKAq0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/whX1NWmKAq0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "도멘TV [DOTUBE]",
+        "tags": [
+          "도재욱",
+          "도멘",
+          "스타",
+          "프로토스",
+          "asl",
+          "asl16",
+          "asl시즌16",
+          "결승",
+          "결승전",
+          "김민철",
+          "변현제",
+          "1경기"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "정상전쟁 [ASL 시즌16 결승전 김민철vs변현제 1경기]",
+          "description": "#ASL#ASL16#ASL시즌16#결승#결승전\n\nStarCraft:Remastered 스타크래프트 전문채널 도재욱\n도멘 TV에 오신분들!\n구독/좋아요/댓글/공유 3개만요...\n\n도재욱 방송국? ▶ http://www.afreeca.com/wodnrdldia"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "EGhNEcTJhKxC7cZgtsaJQuQaAIY",
+      "id": "tlWJneTcdv4",
+      "snippet": {
+        "publishedAt": "2023-10-15T08:30:14Z",
+        "channelId": "UCJpAwvQaZyCI5spAz7tipGA",
+        "title": "알리스타 장인 출신입니다",
+        "description": "파카 생방송:  https://www.twitch.tv/paka9999\n\n\n파카 이메일 - soninuki@gmail.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tlWJneTcdv4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tlWJneTcdv4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tlWJneTcdv4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tlWJneTcdv4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tlWJneTcdv4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "PAKA",
+        "tags": ["파카", "paka", "손인욱", "리그오브레전드"],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "알리스타 장인 출신입니다",
+          "description": "파카 생방송:  https://www.twitch.tv/paka9999\n\n\n파카 이메일 - soninuki@gmail.com"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "1RQt_yqn3f3kbUBFUiE6-ovJeYE",
+      "id": "LyUixzmjn8s",
+      "snippet": {
+        "publishedAt": "2023-10-14T10:00:23Z",
+        "channelId": "UCUj6rrhMTR9pipbAWBAMvUQ",
+        "title": "잠깐 쉬어가는 침착맨",
+        "description": "▶이 영상의 생방송 원본\n  •2023년 9월 27일 방송분: https://www.youtube.com/live/XHtEAuPZwUs?si=R5fDJWc_S9jdP-v_\n\n▶'침착맨의 일상재롱' 모아보기\n  •https://goo.gl/OJ4Uoa\n\n#침착맨 #휴방 #휴식",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LyUixzmjn8s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LyUixzmjn8s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LyUixzmjn8s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LyUixzmjn8s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LyUixzmjn8s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "침착맨",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "잠깐 쉬어가는 침착맨",
+          "description": "▶이 영상의 생방송 원본\n  •2023년 9월 27일 방송분: https://www.youtube.com/live/XHtEAuPZwUs?si=R5fDJWc_S9jdP-v_\n\n▶'침착맨의 일상재롱' 모아보기\n  •https://goo.gl/OJ4Uoa\n\n#침착맨 #휴방 #휴식"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "pr7TZtQgw49pbTBhAZvo1FZOdLA",
+      "id": "gqcV6Bfdk0U",
+      "snippet": {
+        "publishedAt": "2023-10-14T02:00:28Z",
+        "channelId": "UCOTJtP0Z9DjpPU43B5m1V6A",
+        "title": "한도없는 킬 미션에 스카웃으로 오버로드만 미친듯이 잡기 시작하는 알파고ㅋㅋ 상대는 영문도 모른채 당하게되는데..",
+        "description": "스타크래프트 테란 STX전프로 ★알파고★김성현의 공식채널입니다:D\n#알튜브 #알파고 #김성현 #스타 #스타크래프트 #starcraft\n\n* 해당 게임은 23.10.12 생방송에서 진행됐습니다.\n\n타임 스탬프\n00:00 오프닝 & 매치 1\n29:18 리플레이 시청 - 매치 1\n\n※ 아프리카 방송국 주소 : http://www.afreecatv.com/rlatjdgus228\n--------------------\n- 오프닝\nMusic provided by 브금대통령\nTrack : 무궁화 꽃이 피었습니다 - https://youtu.be/Y8jh4gBETos\n\n- 매치 1 종료 후\nMusic provided by 브금대통령\nTrack : 개억울 - https://youtu.be/zpI1I1Fxs-Q\n\n- 리플레이 시청 종료 후\nMusic provided by 브금대통령\nTrack : 개껌 발견 - https://youtu.be/ddHPZ_Ys0Sc\n\n- 엔딩\nMusic provided by 브금대통령\nTrack : A Bit Tricky - https://youtu.be/jBqESgW0XJ4",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gqcV6Bfdk0U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gqcV6Bfdk0U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gqcV6Bfdk0U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gqcV6Bfdk0U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gqcV6Bfdk0U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "[ALTUBE] 김성현TV",
+        "tags": [
+          "스타",
+          "스타크래프트",
+          "starcraft",
+          "알파고",
+          "김성현",
+          "zerg",
+          "terran",
+          "protoss",
+          "저그",
+          "테란",
+          "프로토스"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "한도없는 킬 미션에 스카웃으로 오버로드만 미친듯이 잡기 시작하는 알파고ㅋㅋ 상대는 영문도 모른채 당하게되는데..",
+          "description": "스타크래프트 테란 STX전프로 ★알파고★김성현의 공식채널입니다:D\n#알튜브 #알파고 #김성현 #스타 #스타크래프트 #starcraft\n\n* 해당 게임은 23.10.12 생방송에서 진행됐습니다.\n\n타임 스탬프\n00:00 오프닝 & 매치 1\n29:18 리플레이 시청 - 매치 1\n\n※ 아프리카 방송국 주소 : http://www.afreecatv.com/rlatjdgus228\n--------------------\n- 오프닝\nMusic provided by 브금대통령\nTrack : 무궁화 꽃이 피었습니다 - https://youtu.be/Y8jh4gBETos\n\n- 매치 1 종료 후\nMusic provided by 브금대통령\nTrack : 개억울 - https://youtu.be/zpI1I1Fxs-Q\n\n- 리플레이 시청 종료 후\nMusic provided by 브금대통령\nTrack : 개껌 발견 - https://youtu.be/ddHPZ_Ys0Sc\n\n- 엔딩\nMusic provided by 브금대통령\nTrack : A Bit Tricky - https://youtu.be/jBqESgW0XJ4"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "GFw-DOrcMNHHU297xSMy9lb8AEQ",
+      "id": "fqHFQu7nYEI",
+      "snippet": {
+        "publishedAt": "2023-10-14T06:42:31Z",
+        "channelId": "UCg7rkxrTnIhiHEpXY1ec9NA",
+        "title": "당신의 미래를 100% 정확하게 알려드립니다",
+        "description": "어떤 미래던 100% 맞춰버리는 이시대 최고의 예언가.. 인데 내가 틀렸다고?\n\n▶구독하기❤& 좋아요👍버튼을 눌러주세요! 큰 힘이 됩니다 :D\n----------------------------------------­----------\n▷잠뜰 TV 간편 무료 구독하기 ! : http://goo.gl/FnZZQO\n🐳비하인드를 보고싶다면 여기에요 여기 ! :https://www.youtube.com/channel/UCg7rkxrTnIhiHEpXY1ec9NA/join\n----------------------------------------­----------\n\n#잠뜰 #마인크래프트",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fqHFQu7nYEI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fqHFQu7nYEI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fqHFQu7nYEI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fqHFQu7nYEI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fqHFQu7nYEI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "잠뜰 TV",
+        "tags": [
+          "마인크래프트",
+          "Minecraft",
+          "잠뜰",
+          "Sleepground",
+          "수현",
+          "칠각별",
+          "각별",
+          "라더",
+          "마인크래프트 잠뜰",
+          "마크 미니게임",
+          "잠뜰 미니게임",
+          "공룡",
+          "마인크래프트 공룡",
+          "잠뜰 공룡",
+          "덕개",
+          "마인크래프트 유튜버",
+          "마인크래프트 마법",
+          "마인크래프트 추리",
+          "잠뜰 덕개",
+          "잠뜰 스파이"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "당신의 미래를 100% 정확하게 알려드립니다",
+          "description": "어떤 미래던 100% 맞춰버리는 이시대 최고의 예언가.. 인데 내가 틀렸다고?\n\n▶구독하기❤& 좋아요👍버튼을 눌러주세요! 큰 힘이 됩니다 :D\n----------------------------------------­----------\n▷잠뜰 TV 간편 무료 구독하기 ! : http://goo.gl/FnZZQO\n🐳비하인드를 보고싶다면 여기에요 여기 ! :https://www.youtube.com/channel/UCg7rkxrTnIhiHEpXY1ec9NA/join\n----------------------------------------­----------\n\n#잠뜰 #마인크래프트"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "JZH_qXgxUFfSVNK_NFWkjwLwaQ4",
+      "id": "-eoqeGE7GTk",
+      "snippet": {
+        "publishedAt": "2023-10-15T03:30:26Z",
+        "channelId": "UCwgAThSYfmU9YRPq4Z1nJfg",
+        "title": "이런 월홉 점프맵이 있다고???? [로블록스]",
+        "description": "#로블록스 #로블록스점프맵 #로블록스게임",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-eoqeGE7GTk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-eoqeGE7GTk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-eoqeGE7GTk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-eoqeGE7GTk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-eoqeGE7GTk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "너굴몬",
+        "tags": [
+          "로블록스",
+          "로블록스 점프맵",
+          "로블록스 게임",
+          "로벅스",
+          "로벅스 이벤트",
+          "로블록스 게임 추천",
+          "로블록스 월홉",
+          "로블록스 월홉 점프맵"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "이런 월홉 점프맵이 있다고???? [로블록스]",
+          "description": "#로블록스 #로블록스점프맵 #로블록스게임"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "z_Hv2cvdTJTh3NGK-S8S-8aGBF8",
+      "id": "90rAHFiRy1M",
+      "snippet": {
+        "publishedAt": "2023-10-14T06:33:46Z",
+        "channelId": "UC3t_UZQsrCJe9x6S81hxXtg",
+        "title": "How Big Can Be Nether Portal In Minecraft",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/90rAHFiRy1M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/90rAHFiRy1M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/90rAHFiRy1M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/90rAHFiRy1M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/90rAHFiRy1M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Furious",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "How Big Can Be Nether Portal In Minecraft",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "fT9UtCbmXxF9eKqapfByczyoWFE",
+      "id": "clh3ttjrpGc",
+      "snippet": {
+        "publishedAt": "2023-10-14T01:30:13Z",
+        "channelId": "UCXZx953K0FgkT3H2FaFAcew",
+        "title": "흔한남매 타워에 슈뻘맨이 도전한다고!? 슈뻘맨 로블록스 도전기!!",
+        "description": "오늘은 슈뻘맨의 로블록스 타워깨기 콘텐츠!!\n오늘의 도전해볼 타워는 흔한남매님의 스테이지 타워?!\n슈뻘맨 같은 로블록스 초보에게는 딱 맞는 타워라고 하는데.. \n과연 깰 수 있을까..?!\n궁금한 뻘둥이들은 끝까지 봐주기!!!!\n\n슈뻘맨을 사랑해주고 응원해주는 뻘둥이들~!!!\n항상 고마워!!\n더 열심히 뻘짓하는 슈뻘맨이 될게 형들 응원해줘!!\n\n슈뻘맨의 슈퍼 뻘짓 영상은 매주 \n목요일은 4시30분! 토요일은 오전 10시30분에 업로드 되고있어!!\n많은 기대와 관심 부탁해!!\n\n슈뻘맨의 소식을 인스타로도 만나볼 수 있다는 사실!!\n동욱이형 인스타 아이디: h.donguk\n영식이형 인스타 아이디: yeong_sik_\n팔로우 가즈아!!!\n\n슈뻘맨 틱톡이 있어요! \n놀러와~https://vt.tiktok.com/DhQCuj/\n\n그럼 우리 다음 뻘짓에 만나요 !! \n안뇽~~\n\n#슈뻘맨 #로블록스 #흔한남매타워 #슈뻘맨과행복찾기 #괜찮다고말해주기 #괜찮다고말해주기챌린지 #틱톡재판소  #흔한남매 \n\nMusic Povided by - BGM팩토리\nHompage : https://bgmfactory.com\n+\nMusic provided by 브금대통령 \nTrack : Laughing Horse - https://youtu.be/JQGXPrsi408 \n\nMusic provided by 브금대통령 \nTrack : 귀여운 BGM 모음 2 - https://youtu.be/Gkh-wz-cHyg \n\n Music by 브금대통령 \n Music provided by 브금대통령\n Youtube :https://www.youtube.com/channel/UC7oH_BYk5rSP0JF7IDn-jRQ/\n Homepage : https://miocross0145.wixsite.com/bgmpresident/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/clh3ttjrpGc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/clh3ttjrpGc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/clh3ttjrpGc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/clh3ttjrpGc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/clh3ttjrpGc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "슈뻘맨 [슈퍼 뻘짓 도전기]",
+        "tags": [
+          "수뻘맨",
+          "슈펄맨",
+          "슈뻘맨",
+          "수퍼맨",
+          "슈버맨",
+          "슈벌맨",
+          "파뿌리24",
+          "파뿌리",
+          "허팝",
+          "흔한남매",
+          "재미",
+          "꿀잼",
+          "급식왕",
+          "웃소",
+          "웃소 유형",
+          "대결",
+          "보물찾기",
+          "틱톡재판소",
+          "슈뻘맨 틱톡재판소",
+          "슈뻘맨 팔씨름",
+          "슈뻘맨 파뿌리",
+          "슈뻘맨 흔한남매",
+          "흔한남매 슈뻘맨",
+          "슈뻘맨 유형",
+          "슈뻘맨 초대형",
+          "슈뻘맨과 행복찾기",
+          "행복찾기",
+          "행복",
+          "슈뻘맨 노래",
+          "슈퍼맨 노래",
+          "버섯도리",
+          "토깽이네",
+          "과학책",
+          "슈뻘맨 과학",
+          "슈뻘맨 과학책",
+          "슈뻘맨 인형",
+          "포켓몬",
+          "포켓몬고",
+          "포켓몬스터",
+          "포켓몬 스티커",
+          "포켓몬 카드깡",
+          "로블록스",
+          "슈뻘맨 로블록스",
+          "흔한남매 타워",
+          "슈뻘맨 흔한남매 타워",
+          "슈뻘맨 잼못타",
+          "슈뻘맨 로블",
+          "슈뻘맨 사요나라 타워",
+          "슈뻘맨 탕후루",
+          "슈뻘맨 탕후루 타워"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "흔한남매 타워에 슈뻘맨이 도전한다고!? 슈뻘맨 로블록스 도전기!!",
+          "description": "오늘은 슈뻘맨의 로블록스 타워깨기 콘텐츠!!\n오늘의 도전해볼 타워는 흔한남매님의 스테이지 타워?!\n슈뻘맨 같은 로블록스 초보에게는 딱 맞는 타워라고 하는데.. \n과연 깰 수 있을까..?!\n궁금한 뻘둥이들은 끝까지 봐주기!!!!\n\n슈뻘맨을 사랑해주고 응원해주는 뻘둥이들~!!!\n항상 고마워!!\n더 열심히 뻘짓하는 슈뻘맨이 될게 형들 응원해줘!!\n\n슈뻘맨의 슈퍼 뻘짓 영상은 매주 \n목요일은 4시30분! 토요일은 오전 10시30분에 업로드 되고있어!!\n많은 기대와 관심 부탁해!!\n\n슈뻘맨의 소식을 인스타로도 만나볼 수 있다는 사실!!\n동욱이형 인스타 아이디: h.donguk\n영식이형 인스타 아이디: yeong_sik_\n팔로우 가즈아!!!\n\n슈뻘맨 틱톡이 있어요! \n놀러와~https://vt.tiktok.com/DhQCuj/\n\n그럼 우리 다음 뻘짓에 만나요 !! \n안뇽~~\n\n#슈뻘맨 #로블록스 #흔한남매타워 #슈뻘맨과행복찾기 #괜찮다고말해주기 #괜찮다고말해주기챌린지 #틱톡재판소  #흔한남매 \n\nMusic Povided by - BGM팩토리\nHompage : https://bgmfactory.com\n+\nMusic provided by 브금대통령 \nTrack : Laughing Horse - https://youtu.be/JQGXPrsi408 \n\nMusic provided by 브금대통령 \nTrack : 귀여운 BGM 모음 2 - https://youtu.be/Gkh-wz-cHyg \n\n Music by 브금대통령 \n Music provided by 브금대통령\n Youtube :https://www.youtube.com/channel/UC7oH_BYk5rSP0JF7IDn-jRQ/\n Homepage : https://miocross0145.wixsite.com/bgmpresident/"
+        }
+      }
+    }
+  ],
+  "nextPageToken": "CBkQAA",
+  "pageInfo": {
+    "totalResults": 98,
+    "resultsPerPage": 25
+  }
+}

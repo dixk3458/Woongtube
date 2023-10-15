@@ -2,7 +2,7 @@ import React from 'react';
 import { useParams } from 'react-router-dom';
 import VideoHomeCard from '../components/VideoHomeCard';
 import { useQuery } from '@tanstack/react-query';
-import axios from 'axios';
+import { FakeYoutube } from '../api/fakeYoutube';
 
 export default function VideoHome() {
   const { category } = useParams();
@@ -11,10 +11,9 @@ export default function VideoHome() {
     isLoading,
     error,
     data: videos,
-  } = useQuery(['videos', category], async () => {
-    return axios
-      .get(`/mock/${category ? category : 'popular'}.json`)
-      .then(res => res.data.items);
+  } = useQuery(['videos', category], () => {
+    const youtube = new FakeYoutube();
+    return youtube.filter(category);
   });
 
   return (
