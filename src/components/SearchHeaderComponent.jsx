@@ -18,7 +18,7 @@ export default function SearchHeaderComponent() {
 
   const handleSubmit = e => {
     e.preventDefault();
-    text ? navigate(`/videos/${text}`) : navigate('/');
+    text ? navigate(`/video/${text}`) : navigate('/');
   };
   return (
     <header className="w-full flex items-center p-4 text-2xl border-b border-lightGrayBorder mb-4 dark:bg-darkDeep">

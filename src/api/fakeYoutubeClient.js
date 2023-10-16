@@ -27,4 +27,9 @@ export class FakeYoutubeClient {
   async getPopular() {
     return axios.get('/mock/popular.json');
   }
+
+  async search(keyword) {
+    const q = keyword.params.q;
+    return axios.get(`/mock/${q}.json`);
+  }
 }

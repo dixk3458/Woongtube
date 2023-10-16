@@ -1,0 +1,862 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "Ke1o_QX-UDtgSv6vq2B47dKsnT8",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7IlFaWYOVL3_hGJuHw2yT027-5Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZgLlabyz7oY"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-11T04:00:28Z",
+        "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+        "title": "JENNIE - ‘You &amp; Me (Jazz ver.)’ LIVE CLIP",
+        "description": "작사 : TEDDY 작곡 : TEDDY, 24, Vince 편곡 : Nohc 드럼 : 김영진 베이스 : 김대호 기타 : 하범석 피아노 : 전용준 You & Me Jazz ver.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZgLlabyz7oY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZgLlabyz7oY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZgLlabyz7oY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BLACKPINK",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-11T04:00:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PPAW1KxZHnNHvJAFLUVUQYkKx1Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IZNfv8z4tuw"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-16T02:32:10Z",
+        "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+        "title": "EL7Z UP (엘즈업) - Pink Venom (원곡 : BLACKPINK) | MCOUNTDOWN IN FRANCE",
+        "description": "MCOUNTDOWN IN FRANCE EL7Z UP (엘즈업) - Pink Venom (원곡 : BLACKPINK) World No.1 K-POP Chart Show ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IZNfv8z4tuw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IZNfv8z4tuw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IZNfv8z4tuw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mnet K-POP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-16T02:32:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RlCEL-nbkz3Ixw0TuTTq1MBBhtg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VLpUsmBafMQ"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-15T04:00:02Z",
+        "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+        "title": "BLACKPINK - ‘Pretty Savage’ Live at Coachella 2023",
+        "description": "BLACKPINK #블랙핑크 #PrettySavage #COACHELLA #CoachellaOnYouTube #YOUTUBE #YG.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VLpUsmBafMQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VLpUsmBafMQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VLpUsmBafMQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BLACKPINK",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-15T04:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_nvCsWftkgO9dJQUJNMWGrHoPNo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Yl_rmlS4u9s"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-13T09:00:21Z",
+        "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+        "title": "BLACKPINK - ‘B.P.M.’ Roll #33",
+        "description": "BLACKPINK #블랙핑크 #BPM #BORN_PINK_MEMORIES #Roll_33 #WORLD_TOUR #SANFRANCISCO #LOSANGELES ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Yl_rmlS4u9s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Yl_rmlS4u9s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Yl_rmlS4u9s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BLACKPINK",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-13T09:00:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cdI_DEafg7kQt2fR33eWQRldi0E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Yka6oberZwY"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-16T00:30:30Z",
+        "channelId": "UCcQTRi69dsVYHN3exePtZ1A",
+        "title": "블랙핑크 제니 ‘유앤미’, 각종 차트 1위 [잇슈 연예]  / KBS  2023.10.16.",
+        "description": "걸그룹 블랙핑크 멤버 '제니'씨가 솔로곡으로 국내외 차트를 휩쓸고 있습니다. 어느 정도 성적인지, 직접 확인하시죠. 보름달을 배경 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Yka6oberZwY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Yka6oberZwY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Yka6oberZwY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KBS News",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-16T00:30:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NdYnWxX53SmIy6T9Mm4xm1DmnVM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YudHcBIxlYw"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-31T04:00:14Z",
+        "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+        "title": "JISOO - ‘꽃(FLOWER)’ M/V",
+        "description": "JISOO - '꽃(FLOWER)' ABC 도레미만큼 착했던 나 그 눈빛이 싹 변했지 어쩌면 이 또한 나니까 난 파란 나비처럼 날아가 잡지 못한 건 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YudHcBIxlYw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YudHcBIxlYw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YudHcBIxlYw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BLACKPINK",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-31T04:00:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WKUKeb1DH8giO-vDA1rJAkh4ILM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HQYke5XzoOY"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-04T22:51:46Z",
+        "channelId": "UCusW_eHZw_tWLVRv0fzxj_g",
+        "title": "블랙핑크 노래 모음 , BLACKPINK PLAYLIST, 소울뮤직TV",
+        "description": "블랙핑크 노래 모음 , BLACKPINK PLAYLIST, 소울뮤직TV ============================================== 항상 소울 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HQYke5XzoOY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HQYke5XzoOY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HQYke5XzoOY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "소울뮤직TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-04T22:51:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zMIBtWlq_YG3v2A5KIjctMZtfss",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YH1totVbYIo"
+      },
+      "snippet": {
+        "publishedAt": "2023-08-25T04:52:00Z",
+        "channelId": "UC222ggULI1uxDcbs0GQhqWw",
+        "title": "BLACKPINK PLAYLIST 2023 UPDATED | 블랙핑크 노래 모음",
+        "description": "BLACKPINK PLAYLIST 2023 #BLACKPINK #블랙핑크.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YH1totVbYIo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YH1totVbYIo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YH1totVbYIo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "해질녘",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-08-25T04:52:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rbs5BY714yL3lFOkaP-OdEz_tNk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "z9tifvQSu-g"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-27T04:00:11Z",
+        "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+        "title": "BLACKPINK - ‘Typa Girl’ Live at Coachella 2023",
+        "description": "BLACKPINK #블랙핑크 #TypaGirl #Coachella #CoachellaOnYouTube #YOUTUBE #YG.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/z9tifvQSu-g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/z9tifvQSu-g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/z9tifvQSu-g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BLACKPINK",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-27T04:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lFCbaKtraC6mo-lU2mc5Kluwgx8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OQMz8DlkBXk"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-02T19:03:28Z",
+        "channelId": "UCceYGCldGqiMBAVpieqTUFA",
+        "title": "블랙핑크 리사 무개념팬 대처 방법 #블랙핑크#리사#로제BLACKPINK LISA who&#39;s mad because of the conceptual fan#BLACKPINK #LISA",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OQMz8DlkBXk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OQMz8DlkBXk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OQMz8DlkBXk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "케이팝선생 Kpop teacher",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-02T19:03:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0gK-0jnqX-xTiCB2W6j004EPJho",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NpVJidAKOqc"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-27T04:00:02Z",
+        "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+        "title": "BLACKPINK - ‘Shut Down’ Live at Coachella 2023",
+        "description": "BLACKPINK #블랙핑크 #ShutDown #Coachella #CoachellaOnYouTube #YOUTUBE #YG.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NpVJidAKOqc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NpVJidAKOqc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NpVJidAKOqc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BLACKPINK",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-27T04:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZAXBeDH6n7JxSWtyS1rc_WagYR4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0sAnsEYR5WM"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-07T02:00:00Z",
+        "channelId": "UCbp1HhKUDmeI6enMXUxtgrg",
+        "title": "1000억이라고? 리사 소름돋는 몸값.. 블랙핑크 완전체 멀어지는 이유",
+        "description": "블랙핑크 #yg #리사 멀어지는 재계약 건을 취재해 봤습니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0sAnsEYR5WM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0sAnsEYR5WM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0sAnsEYR5WM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "연예 뒤통령이진호",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-07T02:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sFQ4kdAKAhkvHLMBi6ecAGhXVpI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "h2lEk7PkQic"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-24T10:38:00Z",
+        "channelId": "UCxGyH7vzYkZwFseTUa3yZpQ",
+        "title": "🔥 다들 잘 아는 블랙핑크 노래 모음 | PLAYLIST",
+        "description": "2년만에 컴백한 블랙핑크! 오랫동안 기다려왔던 블핑 2집 앨범이 발매된 기념으로 2집 앨범을 포함한 블랙핑크 노래들을 플레이 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/h2lEk7PkQic/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/h2lEk7PkQic/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/h2lEk7PkQic/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "찐막 JJINMAK",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-24T10:38:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "J45e_FD5a4lmcHHZUhscGVTnfyI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iLLFexVtOMY"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-11T11:52:22Z",
+        "channelId": "UCdjjTRD-Dbjapg5Na_DiJ6g",
+        "title": "블랙핑크 재계약 안하는 숨겨진 진짜 이유",
+        "description": "블랙핑크재계약 #블랙핑크YG #방탄소년단재계약 스타들에게 숨겨진 사실들을 집중분석하는 '꽃바침'입니다. '구독' , '좋아요'로 꽃을 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iLLFexVtOMY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iLLFexVtOMY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iLLFexVtOMY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "불꽃바침",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-11T11:52:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LvoIPeISMIKrzVmfhfZzPFXOJJM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gQlMMD8auMs"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-19T04:00:13Z",
+        "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+        "title": "BLACKPINK - ‘Pink Venom’ M/V",
+        "description": "BLACKPINK - 'Pink Venom' Kick in the door Waving the coco 팝콘이나 챙겨 껴들 생각 말고 I talk that talk Runways I walk walk 눈 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gQlMMD8auMs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gQlMMD8auMs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gQlMMD8auMs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BLACKPINK",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-19T04:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fQRujOd1Q5hTBV3oQG61DGSCgug",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4fikvcuirtY"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-25T11:07:59Z",
+        "channelId": "UCS_hnpJLQTvBkqALgapi_4g",
+        "title": "BLACKPINK(블랙핑크) - Shut Down @인기가요 inkigayo 20220925",
+        "description": "BLACKPINK - Shut Down #SBSInkigayo_EP1155 블랙핑크 - Shut Down #BLACKPINK #ShutDown SBS Inkigayo(인기가요) is a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4fikvcuirtY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4fikvcuirtY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4fikvcuirtY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "스브스케이팝 X INKIGAYO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-25T11:07:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Lu3uetib0rFUZzFBZnzkJy9mIuQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jjFSRDUvETQ"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-28T11:39:29Z",
+        "channelId": "UCS_hnpJLQTvBkqALgapi_4g",
+        "title": "BLACKPINK(블랙핑크) - Pink Venom @인기가요 inkigayo 20220828",
+        "description": "BLACKPINK - Pink Venom #SBSInkigayo_EP1152 블랙핑크 - Pink Venom #BLACKPINK #PinkVenom SBS Inkigayo(인기가요) is ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jjFSRDUvETQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jjFSRDUvETQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jjFSRDUvETQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "스브스케이팝 X INKIGAYO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-28T11:39:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6vYGenZPYmtsx2JQr3AchRwhnAY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gWCQncd_Wro"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-17T03:18:43Z",
+        "channelId": "UCsy3YDoalHKcJPomFVr5Jrg",
+        "title": "디올 앰버서더의 모든것",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gWCQncd_Wro/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gWCQncd_Wro/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gWCQncd_Wro/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "패션커밋",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-17T03:18:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "z1sIf4UQdd6JmdCRhF-_spIp3cs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IHNzOHi8sJs"
+      },
+      "snippet": {
+        "publishedAt": "2018-06-15T09:00:05Z",
+        "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+        "title": "BLACKPINK - ‘뚜두뚜두 (DDU-DU DDU-DU)’ M/V",
+        "description": "BLACKPINK - 뚜두뚜두 (DDU-DU DDU-DU) 착한 얼굴에 그렇지 못한 태도 가녀린 몸매 속 가려진 volume은 두 배로 거침없이 직진 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IHNzOHi8sJs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IHNzOHi8sJs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IHNzOHi8sJs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BLACKPINK",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-06-15T09:00:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "96wlU0BlRtNJnhmwaQUmWSrHKgA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sU61xc5UfJM"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-26T13:35:00Z",
+        "channelId": "UCH9TEq76pujGPUquE_thwLQ",
+        "title": "블랙핑크 리사 난리난 프랑스 공연",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sU61xc5UfJM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sU61xc5UfJM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sU61xc5UfJM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "빨간이슈 RedIssue",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-26T13:35:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7r8ReL_QIIz0HNT_qTHO-k_aWIE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mykEXXC-Pts"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-03T12:08:04Z",
+        "channelId": "UCXli2rxDp4azFcJEKnxFsaA",
+        "title": "샤넬쇼에 제니 등장하자 장난아닌 팬들 반응🔥",
+        "description": "제니샤넬쇼 #제니샤넬 #제니.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mykEXXC-Pts/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mykEXXC-Pts/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mykEXXC-Pts/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "왜때문",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-03T12:08:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YoJcJ4Mlo91jMvhLXN45JpCz-fE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ez51zZrq744"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-08T08:00:11Z",
+        "channelId": "UCe52oeb7Xv_KaJsEzcKXJJg",
+        "title": "(ENGsub) 블랙핑크 스페셜 ★&#39;마지막처럼 &#39;부터 &#39;How You Like That&#39;까지★ (BLACKPINK SPECIAL 23분 무대 모음)",
+        "description": "MBC에서의 무대가 없는 곡은 영상에 포함되지 않을 수 있습니다. #블랙핑크 #BLACKPINK #HISDOLY #마지막처럼 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ez51zZrq744/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ez51zZrq744/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ez51zZrq744/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MBCkpop",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-08T08:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Gy5OluT6-d82EqwvWEFwQFyD1_E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Amq-qlqbjYA"
+      },
+      "snippet": {
+        "publishedAt": "2017-06-22T09:00:01Z",
+        "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+        "title": "BLACKPINK - &#39;마지막처럼 (AS IF IT&#39;S YOUR LAST)&#39; M/V",
+        "description": "BLACKPINK - 마지막처럼 (AS IF IT'S YOUR LAST) 너 뭔데 자꾸 생각나 자존심 상해 애가 타 얼굴이 뜨겁고 가슴은 계속 뛰어 내 몸이 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Amq-qlqbjYA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Amq-qlqbjYA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Amq-qlqbjYA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BLACKPINK",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-06-22T09:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Uuhk2OdEMyVmfFr485Y9KOfZUbw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "92awMKMffyA"
+      },
+      "snippet": {
+        "publishedAt": "2023-08-24T06:12:06Z",
+        "channelId": "UCXnpPALC1j3Sz6vKz2q-DFA",
+        "title": "BLACKPINK (블랙핑크)  Best Songs Playlist  (2023 Update) audio🖤💗",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/92awMKMffyA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/92awMKMffyA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/92awMKMffyA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lekboy 07",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-08-24T06:12:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "emL351lCRIJ_GfPsv4ea6hWc9cE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HNpXwFznCzk"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-03T09:05:58Z",
+        "channelId": "UCK8S6QMrTk1G8TYQwIyDo-w",
+        "title": "B L A C K P I N K PLAYLIST 2023 | 블랙핑크 노래 모음",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HNpXwFznCzk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HNpXwFznCzk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HNpXwFznCzk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LQ KPOP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-03T09:05:58Z"
+      }
+    }
+  ]
+}

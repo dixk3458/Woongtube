@@ -7,6 +7,31 @@ export class Youtube {
     return category ? this.#filterByCategory(category) : this.#mostPopular();
   }
 
+  async search(keyword) {
+    return this.#searchByKeyword(keyword);
+  }
+
+  async #searchByKeyword(keyword) {
+    return this.apiClient
+      .search({
+        params: {
+          part: 'snippet',
+          type: 'video',
+          maxResults: 25,
+          regionCode: 'KR',
+          q: keyword,
+        },
+      })
+      .then(res => {
+        return {
+          videoItems: res.data.items.map(item => {
+            return { ...item, id: item.id.videoId };
+          }),
+          nextPageToken: res.data.nextPageToken,
+        };
+      });
+  }
+
   async #filterByCategory(category) {
     let videoCategoryId;
     switch (category) {

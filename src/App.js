@@ -3,7 +3,7 @@ import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 import Root from './pages/Root';
 import ErrorPage from './pages/ErrorPage';
 import VideoHome from './pages/VideoHome';
-import Videos from './pages/Videos';
+import VideoList from './pages/VideoList';
 import VideoDetail from './pages/VideoDetail';
 
 const router = createBrowserRouter([
@@ -20,8 +20,8 @@ const router = createBrowserRouter([
         path: '/channel/:category',
         element: <VideoHome />,
       },
-      { path: '/videos/:keyword', element: <Videos /> },
-      { path: '/videos/:keyword/:videoId', element: <VideoDetail /> },
+      { path: '/video/:keyword', element: <VideoList /> },
+      { path: '/video/:keyword/:videoId', element: <VideoDetail /> },
     ],
   },
 ]);

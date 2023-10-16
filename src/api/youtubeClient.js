@@ -14,4 +14,8 @@ export class YoutubeClient {
   async getPopular(category) {
     return this.httpClient.get('videos', category);
   }
+
+  async search(keyword) {
+    return this.httpClient.get('search', keyword);
+  }
 }
