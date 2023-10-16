@@ -4,16 +4,17 @@ import VideoHomeCard from '../components/VideoHomeCard';
 import { useQuery } from '@tanstack/react-query';
 import { FakeYoutube } from '../api/fakeYoutube';
 import { Youtube } from '../api/youtube';
+import { useYoutubeApi } from '../context/YoutubeApiContext';
 
 export default function VideoHome() {
   const { category } = useParams();
+  const { youtube } = useYoutubeApi();
 
   const {
     isLoading,
     error,
     data: videos,
   } = useQuery(['videos', category], () => {
-    const youtube = new FakeYoutube();
     return youtube.filter(category);
   });
 

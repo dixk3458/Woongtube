@@ -4,6 +4,7 @@ import SideComponent from '../components/SideComponent';
 import SearchHeaderComponent from '../components/SearchHeaderComponent';
 import { DarkModeProvider } from '../context/DarkModeContext';
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
+import { YoutubeApiProvider } from '../context/YoutubeApiContext';
 
 const queryClient = new QueryClient();
 
@@ -14,9 +15,11 @@ export default function Root() {
         <SearchHeaderComponent />
         <div className="flex flex-1">
           <SideComponent />
-          <QueryClientProvider client={queryClient}>
-            <Outlet />
-          </QueryClientProvider>
+          <YoutubeApiProvider>
+            <QueryClientProvider client={queryClient}>
+              <Outlet />
+            </QueryClientProvider>
+          </YoutubeApiProvider>
         </div>
       </div>
     </DarkModeProvider>
