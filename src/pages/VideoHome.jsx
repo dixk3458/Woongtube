@@ -2,8 +2,6 @@ import React from 'react';
 import { useParams } from 'react-router-dom';
 import VideoHomeCard from '../components/VideoHomeCard';
 import { useQuery } from '@tanstack/react-query';
-import { FakeYoutube } from '../api/fakeYoutube';
-import { Youtube } from '../api/youtube';
 import { useYoutubeApi } from '../context/YoutubeApiContext';
 
 export default function VideoHome() {

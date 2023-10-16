@@ -1,11 +1,6 @@
-import axios from 'axios';
-
 export class Youtube {
-  constructor() {
-    this.httpClient = axios.create({
-      baseURL: 'https://www.googleapis.com/youtube/v3',
-      params: { key: process.env.REACT_APP_YOUTUBE_API_KEY },
-    });
+  constructor(apiClient) {
+    this.apiClient = apiClient;
   }
 
   async filter(category) {
@@ -28,8 +23,8 @@ export class Youtube {
         throw new Error('not valid videoCategoryId');
     }
 
-    return this.httpClient
-      .get('videos', {
+    return this.apiClient
+      .filter({
         params: {
           part: 'snippet',
           chart: 'mostPopular',
@@ -42,8 +37,8 @@ export class Youtube {
   }
 
   async #mostPopular() {
-    return this.httpClient
-      .get('videos', {
+    return this.apiClient
+      .getPopular({
         params: {
           part: 'snippet',
           chart: 'mostPopular',
