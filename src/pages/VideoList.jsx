@@ -18,7 +18,6 @@ export default function VideoList() {
 
   return (
     <div>
-      <div>{keyword}</div>
       {isLoading && <p>로딩중....</p>}
       {error && <p>에러😜....</p>}
       {videos &&
