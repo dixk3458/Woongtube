@@ -11,9 +11,9 @@ const queryClient = new QueryClient();
 export default function Root() {
   return (
     <DarkModeProvider>
-      <div className="flex flex-col h-full ">
+      <div className=" flex flex-col h-full ">
         <SearchHeaderComponent />
-        <div className="flex flex-1">
+        <div className="flex flex-1 overflow-y-auto">
           <SideComponent />
           <YoutubeApiProvider>
             <QueryClientProvider client={queryClient}>

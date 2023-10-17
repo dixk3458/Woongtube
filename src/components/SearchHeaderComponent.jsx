@@ -21,7 +21,7 @@ export default function SearchHeaderComponent() {
     text ? navigate(`/video/${text}`) : navigate('/');
   };
   return (
-    <header className="w-full flex items-center p-4 text-2xl border-b border-lightGrayBorder mb-4 dark:bg-darkDeep">
+    <header className="w-full sticky top-0  flex items-center p-4 text-2xl border-b border-lightGrayBorder mb-4 dark:bg-darkDeep">
       <Link className="flex items-center" to="/">
         <img src="logo.png" alt="logo" />
         <h1 className="font-bold text-3xl dark:text-darkBasicText">
