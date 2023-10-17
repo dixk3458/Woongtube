@@ -11,13 +11,48 @@ export class Youtube {
     return this.#searchByKeyword(keyword);
   }
 
+  async channelInfo(id) {
+    return this.apiClient
+      .channels({
+        params: {
+          part: 'snippet',
+          id: id,
+        },
+      })
+      .then(res => {
+        // console.log(res);
+        return res.data.items[0];
+      });
+  }
+
+  async relatedVideos(id) {
+    return this.apiClient
+      .search({
+        params: {
+          part: 'snippet',
+          type: 'video',
+          maxResults: 5,
+          regionCode: 'KR',
+          relatedToVideoId: id,
+        },
+      })
+      .then(res => {
+        return {
+          videoItems: res.data.items.map(item => {
+            return { ...item, id: item.id.videoId };
+          }),
+          nextPageToken: res.data.nextPageToken,
+        };
+      });
+  }
+
   async #searchByKeyword(keyword) {
     return this.apiClient
       .search({
         params: {
           part: 'snippet',
           type: 'video',
-          maxResults: 25,
+          maxResults: 5,
           regionCode: 'KR',
           q: keyword,
         },
@@ -53,7 +88,7 @@ export class Youtube {
         params: {
           part: 'snippet',
           chart: 'mostPopular',
-          maxResults: 25,
+          maxResults: 5,
           regionCode: 'KR',
           videoCategoryId: videoCategoryId,
         },
@@ -67,7 +102,7 @@ export class Youtube {
         params: {
           part: 'snippet',
           chart: 'mostPopular',
-          maxResults: 25,
+          maxResults: 5,
           regionCode: 'KR',
         },
       })

@@ -1,8 +1,6 @@
 import axios from 'axios';
 
 export class FakeYoutubeClient {
-  constructor() {}
-
   async filter(params) {
     const categoryId = params.params.videoCategoryId;
 
@@ -28,8 +26,11 @@ export class FakeYoutubeClient {
     return axios.get('/mock/popular.json');
   }
 
-  async search(keyword) {
-    const q = keyword.params.q;
-    return axios.get(`/mock/${q}.json`);
+  async search() {
+    return axios.get(`/mock/blackpink.json`);
+  }
+
+  async channels() {
+    return axios.get('/mock/channel.json');
   }
 }

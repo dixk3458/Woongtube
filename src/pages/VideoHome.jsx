@@ -18,11 +18,10 @@ export default function VideoHome() {
 
   return (
     <>
-      <div>{category}videohome</div>
       {isLoading && <p>로딩중...</p>}
       {error && <p>에러😜</p>}
       {videos && (
-        <ul>
+        <ul className="mr-20 basis-3/5">
           {videos.map(video => (
             <VideoHomeCard key={video.id} video={video} />
           ))}

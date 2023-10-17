@@ -18,4 +18,8 @@ export class YoutubeClient {
   async search(keyword) {
     return this.httpClient.get('search', keyword);
   }
+
+  async channels(params) {
+    return this.httpClient.get('channels', params);
+  }
 }

@@ -21,7 +21,7 @@ export default function SideComponent() {
   const { darkMode, toggleDarkMode } = useDarkMode();
 
   return (
-    <aside className="flex flex-col sticky top-0 justify-between p-4 w-3/12 text-2xl font-bold">
+    <aside className="flex flex-col sticky top-0 left-0 justify-between p-4 mr-12 w-3/12 text-2xl font-bold ">
       <nav className="">
         <ul className="ml-6 capitalize after:content-[''] after:block after:w-full  after:h-px after:ml-2 after:bg-gray-300 ">
           {categories.map((category, index) => {
