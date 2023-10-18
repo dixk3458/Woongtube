@@ -12,9 +12,13 @@ export default function VideoHome() {
     isLoading,
     error,
     data: videos,
-  } = useQuery(['videos', category], () => {
-    return youtube.filter(category);
-  });
+  } = useQuery(
+    ['videos', category],
+    () => {
+      return youtube.filter(category);
+    },
+    { staleTime: 1000 * 60 * 1 }
+  );
 
   return (
     <>

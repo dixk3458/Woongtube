@@ -12,9 +12,13 @@ export default function VideoList() {
     isLoading,
     error,
     data: videos,
-  } = useQuery(['videos', keyword], () => {
-    return youtube.search(keyword);
-  });
+  } = useQuery(
+    ['videos', keyword],
+    () => {
+      return youtube.search(keyword);
+    },
+    { staleTime: 1000 * 60 * 1 }
+  );
 
   return (
     <div className="px-12 ">

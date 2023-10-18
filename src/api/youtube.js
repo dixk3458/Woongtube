@@ -31,9 +31,9 @@ export class Youtube {
         params: {
           part: 'snippet',
           type: 'video',
-          maxResults: 5,
+          maxResults: 25,
           regionCode: 'KR',
-          relatedToVideoId: id,
+          id: id,
         },
       })
       .then(res => {
@@ -52,7 +52,7 @@ export class Youtube {
         params: {
           part: 'snippet',
           type: 'video',
-          maxResults: 5,
+          maxResults: 25,
           regionCode: 'KR',
           q: keyword,
         },
@@ -88,7 +88,7 @@ export class Youtube {
         params: {
           part: 'snippet',
           chart: 'mostPopular',
-          maxResults: 5,
+          maxResults: 10,
           regionCode: 'KR',
           videoCategoryId: videoCategoryId,
         },
@@ -102,7 +102,7 @@ export class Youtube {
         params: {
           part: 'snippet',
           chart: 'mostPopular',
-          maxResults: 5,
+          maxResults: 10,
           regionCode: 'KR',
         },
       })

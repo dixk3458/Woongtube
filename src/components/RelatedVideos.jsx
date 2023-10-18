@@ -10,9 +10,15 @@ export default function RelatedVideos({ id }) {
     isLoading,
     error,
     data: videos,
-  } = useQuery(['videos', id], () => {
-    return youtube.relatedVideos(id);
-  });
+  } = useQuery(
+    ['videos', id],
+    () => {
+      return youtube.relatedVideos(id);
+    },
+    {
+      staleTime: 1000 * 60 * 5,
+    }
+  );
 
   return (
     <ul className="overflow-auto">

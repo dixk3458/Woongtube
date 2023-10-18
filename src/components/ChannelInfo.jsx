@@ -2,16 +2,20 @@ import React from 'react';
 import { useQuery } from '@tanstack/react-query';
 import { useYoutubeApi } from '../context/YoutubeApiContext';
 
-export default function ChannelInfo({ id, name }) {
+export default function ChannelInfo({ id, name, type = '' }) {
   const { youtube } = useYoutubeApi();
 
   const {
     isLoading,
     error,
     data: channelInfo,
-  } = useQuery(['channelInfo', id], () => {
-    return youtube.channelInfo(id);
-  });
+  } = useQuery(
+    ['channelInfo', id],
+    () => {
+      return youtube.channelInfo(id);
+    },
+    { staleTime: 1000 * 60 * 5 }
+  );
 
   return (
     <>
@@ -24,7 +28,13 @@ export default function ChannelInfo({ id, name }) {
             src={channelInfo.snippet.thumbnails.default.url}
             alt={name}
           />
-          <div className="ml-2 text-lg font-medium dark:text-darkBasicText">
+          <div
+            className={`${
+              type === 'videoHome'
+                ? 'hidden'
+                : 'ml-2 text-lg font-medium dark:text-darkBasicText'
+            } `}
+          >
             <p>{channelInfo.snippet.title}</p>
           </div>
         </div>

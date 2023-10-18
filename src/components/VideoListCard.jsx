@@ -15,11 +15,15 @@ export default function VideoListCard({ video, type }) {
     navigate(`/video/${keyword}/${video.id}`, { state: { video: video } });
   };
 
-  const {youtube} = useYoutubeApi();
+  const { youtube } = useYoutubeApi();
 
-  const { data: channelInfo } = useQuery(['channelInfo', channelId], () => {
-    return youtube.channelInfo(channelId);
-  });
+  const { data: channelInfo } = useQuery(
+    ['channelInfo', channelId],
+    () => {
+      return youtube.channelInfo(channelId);
+    },
+    { staleTime: 1000 * 60 * 5 }
+  );
 
   return (
     <li className={isList ? 'flex gap-1 mb-2 mx-2' : ''} onClick={handleClick}>
