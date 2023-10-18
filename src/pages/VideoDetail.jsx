@@ -24,7 +24,7 @@ export default function VideoDetail() {
           frameBorder="0"
           allowFullScreen
         ></iframe>
-        <div className="py-6">
+        <div className="py-6 mr-4">
           <h2 className="text-xl font-bold dark:text-darkBasicText">{title}</h2>
           <ChannelInfo id={channelId} name={channelTitle} />
           <pre className="whitespace-pre-wrap p-4 rounded-lg bg-lightGrayBorder dark:bg-darkDeep text-darkBasicText">
@@ -32,11 +32,9 @@ export default function VideoDetail() {
           </pre>
         </div>
       </article>
-      <div className="basis-2/6 lg:overflow-auto hover:overflow-y-scroll ">
-        <section className="h-full">
-          <RelatedVideos id={channelId} />
-        </section>
-      </div>
+      <section className="basis-2/6 overflow-y-auto">
+        <RelatedVideos id={channelId} />
+      </section>
     </section>
   );
 }

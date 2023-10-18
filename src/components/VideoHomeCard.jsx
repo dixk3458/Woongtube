@@ -3,7 +3,6 @@ import ChannelInfo from './ChannelInfo';
 import formatAgo from '../util/date';
 
 export default function VideoHomeCard({ video }) {
-  console.log(video);
   return (
     <div>
       <div className=" pb-10 mb-10 border-b-2 border-darkBasicText">

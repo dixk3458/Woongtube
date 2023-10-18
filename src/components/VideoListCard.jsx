@@ -28,13 +28,15 @@ export default function VideoListCard({ video, type }) {
   return (
     <li className={isList ? 'flex gap-1 mb-2 mx-2' : ''} onClick={handleClick}>
       <img
-        className={isList ? 'w-60 mr-4  rounded-lg' : 'w-full  rounded-lg'}
+        className={isList ? ' w-60 mr-4  rounded-lg' : 'w-full  rounded-lg'}
         src={thumbnails.medium.url}
         alt={title}
       />
       <div className="flex gap-2">
         <img
-          className="w-10 h-10 my-2 rounded-full dark:text-darkBasicText"
+          className={`w-10 h-10 my-2 rounded-full dark:text-darkBasicText ${
+            isList ? 'hidden' : ''
+          }`}
           src={channelInfo && channelInfo.snippet.thumbnails.default.url}
           alt="channelImage"
         />
@@ -45,7 +47,7 @@ export default function VideoListCard({ video, type }) {
           <p className="text-sm opacity-80 dark:text-darkBasicText">
             {channelTitle}
           </p>
-          <p className="text-sm opacity-80 dark:text-darkBasicText">{`조회수 40만회 • ${formatAgo(
+          <p className="text-sm opacity-80 dark:text-darkBasicText">{`${formatAgo(
             publishedAt,
             'ko'
           )} `}</p>

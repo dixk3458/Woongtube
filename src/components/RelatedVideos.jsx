@@ -21,7 +21,7 @@ export default function RelatedVideos({ id }) {
   );
 
   return (
-    <ul className="overflow-auto">
+    <ul className="flex flex-col">
       {isLoading && <p>로딩중...</p>}
       {error && <p>에러...</p>}
       {videos &&

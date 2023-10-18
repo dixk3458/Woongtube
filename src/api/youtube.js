@@ -20,7 +20,6 @@ export class Youtube {
         },
       })
       .then(res => {
-        // console.log(res);
         return res.data.items[0];
       });
   }
