@@ -26,7 +26,7 @@ export default function SideComponent() {
         <ul className="ml-6 capitalize after:content-[''] after:block after:w-full  after:h-px after:ml-2 after:bg-gray-300 ">
           {categories.map((category, index) => {
             return (
-              <li key={index}>
+              <li className="rounded-lg hover:bg-lightDeepText" key={index}>
                 <Link
                   onClick={() => {
                     setFilter(category);
@@ -37,7 +37,7 @@ export default function SideComponent() {
                   to={`/channel/${category}`}
                 >
                   {icons[index]}
-                  <h3 className="leading-10">{category}</h3>
+                  <h3 className="leading-10 ">{category}</h3>
                 </Link>
               </li>
             );

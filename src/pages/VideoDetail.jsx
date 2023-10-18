@@ -19,9 +19,9 @@ export default function VideoDetail() {
           width="98%"
           height="410"
           src={`https://www.youtube.com/embed/${video.id}?autoplay=1`}
-          frameborder="0"
           title={title}
-          allowfullscreen
+          frameBorder="0"
+          allowFullScreen
         ></iframe>
         <div className="py-8 ">
           <h2 className="text-xl font-bold dark:text-darkBasicText">{title}</h2>
