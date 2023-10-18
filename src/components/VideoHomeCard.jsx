@@ -16,7 +16,7 @@ export default function VideoHomeCard({ video }) {
             <p className="font-semibold my-2 line-clamp-2 dark:text-darkBasicText">
               {video.snippet.title}
             </p>
-            <p className="text-sm opacity-80 dark:text-darkBasicText">{`조회수 40만회 • ${formatAgo(
+            <p className="text-sm opacity-80 dark:text-darkBasicText">{`${formatAgo(
               video.snippet.publishedAt,
               'ko'
             )} `}</p>
